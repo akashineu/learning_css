@@ -1,0 +1,31 @@
+*{
+    border: 1px solid red;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+p{
+    width: 50%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+img{
+    width: 200px;
+}
+
+ul{
+    list-style: none;
+    text-align: end;
+}
+
+li{
+    display: inline-block;
+    margin: 15px;
+}
+
+li:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
