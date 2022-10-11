@@ -1,0 +1,31 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-shadow: 2px 2px 5px coral, 3px 3px 1px black;
+    text-align: center;
+    color: transparent;
+}
+
+a{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}
+
+p{
+    text-transform: uppercase;
+    text-indent: 20px;
+    letter-spacing: 6px;
+    line-height: 27px;
+    word-spacing: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-style: italic;
+}
+
+input{
+    text-transform: uppercase;
+    color: transparent;
+    text-shadow: 1px 1px 3px black;
+}
